@@ -1,4 +1,4 @@
-# Bayesian analysis of the rotational period and galactic velocity of pulsars
+# Bayesian analysis of pulsars features using Nested Sampling
 
 ## Model
 
